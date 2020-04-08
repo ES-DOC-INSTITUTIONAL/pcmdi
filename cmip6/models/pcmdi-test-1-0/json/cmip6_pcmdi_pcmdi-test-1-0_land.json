@@ -1,0 +1,8 @@
+{
+    "mipEra": "cmip6", 
+    "institute": "pcmdi", 
+    "seedingSource": "Spreadsheet", 
+    "sourceID": "pcmdi-test-1-0", 
+    "topic": "land", 
+    "content": {}
+}
